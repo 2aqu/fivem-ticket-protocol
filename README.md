@@ -1,6 +1,6 @@
 <h2>FiveM Ticket Creation protocol and Flooder</h2>
 
-<h3>Coded by aqu (dv: @2aqu)</h3>
+<h3>Coded by aqu (dc: @2aqu)</h3>
 
 <h4>This script can generate FiveM tickets that when flooding causes high CPU load and makes the webserver crash</h4>
 
